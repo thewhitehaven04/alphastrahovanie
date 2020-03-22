@@ -1,0 +1,161 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "/home/northernlights/Documents/AlphaStrakhovanie",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2020-03-21 19:48:03",
+            "filesum": 19,
+            "codesum": 140,
+            "commentsum": 8,
+            "blanksum": 34,
+            "statistics": {
+                ".py": {
+                    "code": 128,
+                    "comment": 7,
+                    "blank": 32
+                },
+                "": {
+                    "code": 6,
+                    "comment": 0,
+                    "blank": 1
+                },
+                ".TAG": {
+                    "code": 4,
+                    "comment": 1,
+                    "blank": 0
+                },
+                ".md": {
+                    "code": 2,
+                    "comment": 0,
+                    "blank": 1
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".pytest_cache/.gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 1,
+                    "filename": ".pytest_cache/CACHEDIR.TAG"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".pytest_cache/README.md"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".pytest_cache/v/cache/lastfailed"
+                },
+                {
+                    "blank": 1,
+                    "code": 2,
+                    "comment": 0,
+                    "filename": ".pytest_cache/v/cache/nodeids"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".pytest_cache/v/cache/stepwise"
+                },
+                {
+                    "filename": "__pycache__/__init__.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/BasePage.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/conftest.cpython-38-pytest-5.4.1.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/EosagoFormPage.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/IndividualsPage.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/Locators.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/TestRun.cpython-38-pytest-5.4.1.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "__pycache__/TestRun.cpython-38.pyc",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "BasePage.py"
+                },
+                {
+                    "blank": 4,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "EosagoFormPage.py"
+                },
+                {
+                    "blank": 5,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "IndividualsPage.py"
+                },
+                {
+                    "blank": 12,
+                    "code": 48,
+                    "comment": 0,
+                    "filename": "Locators.py"
+                },
+                {
+                    "blank": 6,
+                    "code": 22,
+                    "comment": 6,
+                    "filename": "TestRun.py"
+                }
+            ]
+        }
+    ]
+}

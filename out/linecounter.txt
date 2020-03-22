@@ -1,0 +1,39 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2020-03-21 19:48:03
+count workspace : /home/northernlights/Documents/AlphaStrakhovanie
+total files : 19
+total code lines : 140
+total comment lines : 8
+total blank lines : 34
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |            .py|            128|              7|             32|     91|
+   |               |              6|              0|              1|    4.3|
+   |           .TAG|              4|              1|              0|    2.9|
+   |            .md|              2|              0|              1|    1.4|
+   -------------------------------------------------------------------------
+.pytest_cache/.gitignore, code is 2, comment is 0, blank is 0.
+.pytest_cache/CACHEDIR.TAG, code is 4, comment is 1, blank is 0.
+.pytest_cache/README.md, code is 2, comment is 0, blank is 1.
+.pytest_cache/v/cache/lastfailed, code is 1, comment is 0, blank is 0.
+.pytest_cache/v/cache/nodeids, code is 2, comment is 0, blank is 1.
+.pytest_cache/v/cache/stepwise, code is 1, comment is 0, blank is 0.
+__pycache__/__init__.cpython-38.pyc, it is a binary file.
+__pycache__/BasePage.cpython-38.pyc, it is a binary file.
+__pycache__/conftest.cpython-38-pytest-5.4.1.pyc, it is a binary file.
+__pycache__/EosagoFormPage.cpython-38.pyc, it is a binary file.
+__pycache__/IndividualsPage.cpython-38.pyc, it is a binary file.
+__pycache__/Locators.cpython-38.pyc, it is a binary file.
+__pycache__/TestRun.cpython-38-pytest-5.4.1.pyc, it is a binary file.
+__pycache__/TestRun.cpython-38.pyc, it is a binary file.
+BasePage.py, code is 28, comment is 0, blank is 5.
+EosagoFormPage.py, code is 14, comment is 1, blank is 4.
+IndividualsPage.py, code is 16, comment is 0, blank is 5.
+Locators.py, code is 48, comment is 0, blank is 12.
+TestRun.py, code is 22, comment is 6, blank is 6.
+===============================================================================
