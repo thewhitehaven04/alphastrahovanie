@@ -45,7 +45,7 @@ test = SyntheticTest(browser,url)"""
     print(
         f'Execution time:{timeit.timeit(setup=setup, stmt="test.test_scenario()", number=1)}'
     )
-    threading.Timer(5, init_test).start()
+    threading.Timer(60, init_test).start()
 
 
 if __name__ == "__main__":
